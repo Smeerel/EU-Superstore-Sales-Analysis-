@@ -8,7 +8,7 @@ This repository provides in-depth analysis related to sales of EU Superstore and
 The dataset used in this project is related to a Large Retail Business.
 
 # Content:
-Dataset and Tableau workbook with a dashboard and a story(presentation)
+Dataset, PowerPoint Presentation and Tableau workbook with a dashboard and a story.
 
 # Project Overview:
 In this project, we analyze sales data to gain insights into the factors that contribute to maximum sales and provide actionable recommendations to improve further sales.. Tableau Public is used for analysis and creating visualizations for dashboard and story. 
