@@ -40,11 +40,12 @@ The results of the analysis will include:
   
 
 # Conclusion:
-![image](https://github.com/Smeerel/Superstore-Sales-Overview/assets/143562418/70cf790f-7cbc-4713-a99a-6c17830b1376)
+![image](https://github.com/Smeerel/EU-Superstore-Sales-Analysis-/assets/143562418/3884988d-4a21-43ae-8376-6bb47b54f4d5)
 
 
 # Recommendations:
-![image](https://github.com/Smeerel/Superstore-Sales-Overview/assets/143562418/a1355fae-5b16-41e7-9100-d82d8c5e7c4b)
+![image](https://github.com/Smeerel/EU-Superstore-Sales-Analysis-/assets/143562418/192c6cd2-caa5-4c42-b231-692f709ffaa8)
+
 
 
 
